@@ -1,0 +1,15 @@
+ Volume in drive F has no label.
+ Volume Serial Number is FE0C-AEA3
+
+ Directory of F:\09_GIT
+
+03/14/2023  05:57 PM    <DIR>          .
+03/14/2023  05:57 PM    <DIR>          ..
+03/14/2023  04:32 PM    <DIR>          01_HELLO_WORLD
+03/14/2023  05:55 PM                 0 AAPP
+03/14/2023  05:57 PM                 0 ASAS.txt
+03/14/2023  05:02 PM    <DIR>          covid
+03/14/2023  04:43 PM                 9 filename.txt
+03/14/2023  04:43 PM    <DIR>          New folder
+               3 File(s)              9 bytes
+               5 Dir(s)  22,013,091,840 bytes free
